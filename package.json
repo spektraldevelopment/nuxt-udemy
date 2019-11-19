@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-u",
+  "name": "nuxt-blog",
   "version": "1.0.0",
-  "description": "My Nuxt learning app",
+  "description": "My sensational Nuxt.js project",
   "author": "",
   "private": true,
   "scripts": {
@@ -11,7 +11,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.3.6"
   },
   "devDependencies": {}
 }

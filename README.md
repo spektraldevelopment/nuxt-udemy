@@ -1,6 +1,6 @@
-# nuxt-u
+# nuxt-blog
 
-> My Nuxt learning app
+> My sensational Nuxt.js project
 
 ## Build Setup
 
