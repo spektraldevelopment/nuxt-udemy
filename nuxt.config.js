@@ -61,6 +61,9 @@ export default {
     extend (config, ctx) {
     }
   },
+  env: {
+    fbAPIKey: 'AIzaSyAF-bLGfnd7FSqcC3M5RknEJRZSORJyMHQ'
+  },
   transition: {
     name: 'fade',
     mode: 'out-in'
